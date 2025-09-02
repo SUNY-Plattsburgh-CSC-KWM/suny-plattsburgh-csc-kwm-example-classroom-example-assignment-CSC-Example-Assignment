@@ -13,3 +13,6 @@ Yet another change
 Let's make a change and commit and sync ...
 
 Making another change
+
+Note that was "Ctrl+Enter" ... you might find yourself wondering why Enter didn't work!
+
